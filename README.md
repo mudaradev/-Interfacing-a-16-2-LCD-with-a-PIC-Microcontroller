@@ -4,5 +4,5 @@ my-project/
   README.md
   images/
     proteus.png
-    ![App proteus_image](proteus.png)
+    ![App Screenshot](proteus.png)
 
